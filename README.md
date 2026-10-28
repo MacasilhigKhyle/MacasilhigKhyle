@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Khyle! 👋
 
-<!--
-**MacasilhigKhyle/MacasilhigKhyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌸 Beginner Developer | Learning one commit at a time
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm learning how to code, exploring GitHub, and building small projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🌱 Currently learning Git, GitHub, and web development fundamentals.
+- 🛠️ Practicing through beginner-friendly projects.
+- 🎌 Anime fan, especially *3D Kanojo: Real Girl*.
+- 🎯 My goal is to keep learning and become a better developer.
+
+## 📂 Featured Project
+### [app-dev](https://github.com/YOUR-USERNAME/app-dev)
+A beginner project where I practice Markdown and share information about one of my favorite anime series.
+
+## 🧰 What I'm Learning
+- Markdown
+- Git and GitHub
+- Web development fundamentals
+
+## 🌷 Fun Fact
+I enjoy combining my love for anime with my coding journey!
+
+---
+
+Thanks for visiting my profile! ✨
